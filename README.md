@@ -1,4 +1,9 @@
 # Jawaban Tes Coding Magang PT Suitmedia Kreasi Indonesia MSIB Batch 6
+Nama Peserta: Rizky Ageng Nugroho
+
+NIM: 21104045
+
+Email: 21104045@ittelkom-pwt.ac.id
 ## Screenshots
 
 ![App Screenshot](https://media.discordapp.net/attachments/1127494450030051349/1188573929342783568/image.png?ex=659b04bb&is=65888fbb&hm=3cd89e190ecd5f422058a59faf5db136576dc08d28dd56794bc9b53ee39bfd8b&=&format=webp&quality=lossless&width=832&height=468)
