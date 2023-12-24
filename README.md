@@ -1,3 +1,2 @@
-# suitmedia_test
-
-A new Flutter project.
+# Jawaban Tes Coding Magang PT Suitmedia Kreasi Indonesia
+# MSIB Batch 6
